@@ -2,18 +2,18 @@
 
 A simple Rock Paper Scissor game built using HTML, CSS, and JavaScript.
 
-## Features
+# Features
 
 * Play Rock, Paper, Scissor against the computer
 * Random computer moves
 
-## 🛠️ Technologies Used
+# Technologies Used
 
 * HTML
 * CSS
 * JavaScript
 
-## 📂 Project Structure
+# Project Structure
 
 ```text
 index.html
@@ -23,12 +23,12 @@ games.png
 README.md
 ```
 
-## 🎮 How to Play
+# How to Play
 
 1. Click Rock, Paper, or Scissor.
 2. The computer will randomly choose its move.
 3. The winner will be displayed in alert message instantly.
 
 ## Author
-Venkata Narayana
+Kammaneti Venkata Narayana
 
